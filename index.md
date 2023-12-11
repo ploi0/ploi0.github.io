@@ -1,3 +1,4 @@
+{::comment} 
 ---
 layout: default
 ---
@@ -51,7 +52,7 @@ end
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
-
+{:/comment}
 # TryHackMe CTFs
 
 | Name         | WriteUp Link      | Difficulty |
